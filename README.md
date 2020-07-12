@@ -4,7 +4,7 @@
 [JavaScript](google.com)
 
 ## About
-Free Open Source Legit Cheat for **Counter-Strike: Global Offensive** - [Dynamic-link library](https://en.wikipedia.org/wiki/Dynamic-link_library) (DLL) loadable into game process. Compatible with the latest version.
+Free Source for **Counter-Strike: Global Offensive** Website - Coded in HTML,CSS,JAVASCRIPT :D
 
 
 ## Copyrights
