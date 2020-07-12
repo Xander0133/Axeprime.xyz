@@ -1,0 +1,308 @@
+Uri: https://axeprime.xyz/
+File Name: c:\Downloaded Web Sites\axeprime.xyz\index.htm
+Content Type: text/html
+
+Uri: https://axeprime.xyz/giris/
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\index.htm
+Content Type: text/html
+
+Uri: https://axeprime.xyz/kayit/
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\index.htm
+Content Type: text/html
+
+Uri: https://axeprime.xyz/newfoto/ALİ.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\newfoto\ALİ.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/images/AxePrimeLogo.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\images\AxePrimeLogo.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/newfoto/AİMBOT.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\newfoto\AİMBOT.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/newfoto/GORUS.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\newfoto\GORUS.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/newfoto/SKİN.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\newfoto\SKİN.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/newfoto/DİGER.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\newfoto\DİGER.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/newfoto/AYARLAR.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\newfoto\AYARLAR.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/resimler/alicuts.png
+File Name: c:\Downloaded Web Sites\axeprime.xyz\resimler\alicuts.png
+Content Type: image/png
+
+Uri: https://axeprime.xyz/giris/images/icons/favicon.ico
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\images\icons\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://axeprime.xyz/giris/vendor/bootstrap/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\vendor\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://axeprime.xyz/giris/fonts/font-awesome-4.7.0/css/font-awesome.min.css
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\fonts\font-awesome-4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://axeprime.xyz/giris/fonts/Linearicons-Free-v1.0.0/icon-font.min.css
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\fonts\Linearicons-Free-v1.0.0\icon-font.min.css
+Content Type: text/css
+
+Uri: https://axeprime.xyz/giris/vendor/animate/animate.css
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\vendor\animate\animate.css
+Content Type: text/css
+
+Uri: https://axeprime.xyz/giris/vendor/css-hamburgers/hamburgers.min.css
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\vendor\css-hamburgers\hamburgers.min.css
+Content Type: text/css
+
+Uri: https://axeprime.xyz/giris/vendor/animsition/css/animsition.min.css
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\vendor\animsition\css\animsition.min.css
+Content Type: text/css
+
+Uri: https://axeprime.xyz/giris/vendor/select2/select2.min.css
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\vendor\select2\select2.min.css
+Content Type: text/css
+
+Uri: https://axeprime.xyz/giris/vendor/daterangepicker/daterangepicker.css
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\vendor\daterangepicker\daterangepicker.css
+Content Type: text/css
+
+Uri: https://axeprime.xyz/giris/css/util.css
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\css\util.css
+Content Type: text/css
+
+Uri: https://axeprime.xyz/giris/css/main.css
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\css\main.css
+Content Type: text/css
+
+Uri: https://axeprime.xyz/giris/vendor/jquery/jquery-3.2.1.min.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\vendor\jquery\jquery-3.2.1.min.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/giris/vendor/animsition/js/animsition.min.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\vendor\animsition\js\animsition.min.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/giris/vendor/bootstrap/js/popper.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\vendor\bootstrap\js\popper.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/giris/vendor/bootstrap/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\vendor\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/giris/vendor/select2/select2.min.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\vendor\select2\select2.min.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/giris/vendor/daterangepicker/moment.min.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\vendor\daterangepicker\moment.min.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/giris/vendor/daterangepicker/daterangepicker.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\vendor\daterangepicker\daterangepicker.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/giris/vendor/countdowntime/countdowntime.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\vendor\countdowntime\countdowntime.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/giris/js/main.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\js\main.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/kayit/images/icons/favicon.ico
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\images\icons\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://axeprime.xyz/kayit/vendor/bootstrap/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\vendor\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://axeprime.xyz/kayit/fonts/font-awesome-4.7.0/css/font-awesome.min.css
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\fonts\font-awesome-4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://axeprime.xyz/kayit/fonts/Linearicons-Free-v1.0.0/icon-font.min.css
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\fonts\Linearicons-Free-v1.0.0\icon-font.min.css
+Content Type: text/css
+
+Uri: https://axeprime.xyz/kayit/vendor/animate/animate.css
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\vendor\animate\animate.css
+Content Type: text/css
+
+Uri: https://axeprime.xyz/kayit/vendor/css-hamburgers/hamburgers.min.css
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\vendor\css-hamburgers\hamburgers.min.css
+Content Type: text/css
+
+Uri: https://axeprime.xyz/kayit/vendor/animsition/css/animsition.min.css
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\vendor\animsition\css\animsition.min.css
+Content Type: text/css
+
+Uri: https://axeprime.xyz/kayit/vendor/select2/select2.min.css
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\vendor\select2\select2.min.css
+Content Type: text/css
+
+Uri: https://axeprime.xyz/kayit/vendor/daterangepicker/daterangepicker.css
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\vendor\daterangepicker\daterangepicker.css
+Content Type: text/css
+
+Uri: https://axeprime.xyz/kayit/css/util.css
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\css\util.css
+Content Type: text/css
+
+Uri: https://axeprime.xyz/kayit/css/main.css
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\css\main.css
+Content Type: text/css
+
+Uri: https://axeprime.xyz/kayit/vendor/jquery/jquery-3.2.1.min.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\vendor\jquery\jquery-3.2.1.min.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/kayit/vendor/animsition/js/animsition.min.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\vendor\animsition\js\animsition.min.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/kayit/vendor/bootstrap/js/popper.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\vendor\bootstrap\js\popper.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/kayit/vendor/bootstrap/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\vendor\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/kayit/vendor/select2/select2.min.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\vendor\select2\select2.min.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/kayit/vendor/daterangepicker/moment.min.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\vendor\daterangepicker\moment.min.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/kayit/vendor/daterangepicker/daterangepicker.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\vendor\daterangepicker\daterangepicker.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/kayit/vendor/countdowntime/countdowntime.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\vendor\countdowntime\countdowntime.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/kayit/js/main.js
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\js\main.js
+Content Type: application/javascript
+
+Uri: https://axeprime.xyz/giris/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://axeprime.xyz/giris/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://axeprime.xyz/giris/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://axeprime.xyz/giris/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://axeprime.xyz/giris/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://axeprime.xyz/giris/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://axeprime.xyz/giris/fonts/poppins/Poppins-Regular.ttf
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\fonts\poppins\Poppins-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://axeprime.xyz/giris/fonts/poppins/Poppins-Medium.ttf
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\fonts\poppins\Poppins-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://axeprime.xyz/giris/fonts/poppins/Poppins-Bold.ttf
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\fonts\poppins\Poppins-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://axeprime.xyz/giris/fonts/poppins/Poppins-SemiBold.ttf
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\fonts\poppins\Poppins-SemiBold.ttf
+Content Type: font/ttf
+
+Uri: https://axeprime.xyz/giris/fonts/montserrat/Montserrat-Bold.ttf
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\fonts\montserrat\Montserrat-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://axeprime.xyz/giris/fonts/montserrat/Montserrat-SemiBold.ttf
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\fonts\montserrat\Montserrat-SemiBold.ttf
+Content Type: font/ttf
+
+Uri: https://axeprime.xyz/giris/fonts/montserrat/Montserrat-Regular.ttf
+File Name: c:\Downloaded Web Sites\axeprime.xyz\giris\fonts\montserrat\Montserrat-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://axeprime.xyz/kayit/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://axeprime.xyz/kayit/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://axeprime.xyz/kayit/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://axeprime.xyz/kayit/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://axeprime.xyz/kayit/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://axeprime.xyz/kayit/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://axeprime.xyz/kayit/fonts/poppins/Poppins-Regular.ttf
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\fonts\poppins\Poppins-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://axeprime.xyz/kayit/fonts/poppins/Poppins-Medium.ttf
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\fonts\poppins\Poppins-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://axeprime.xyz/kayit/fonts/poppins/Poppins-Bold.ttf
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\fonts\poppins\Poppins-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://axeprime.xyz/kayit/fonts/poppins/Poppins-SemiBold.ttf
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\fonts\poppins\Poppins-SemiBold.ttf
+Content Type: font/ttf
+
+Uri: https://axeprime.xyz/kayit/fonts/montserrat/Montserrat-Bold.ttf
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\fonts\montserrat\Montserrat-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://axeprime.xyz/kayit/fonts/montserrat/Montserrat-SemiBold.ttf
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\fonts\montserrat\Montserrat-SemiBold.ttf
+Content Type: font/ttf
+
+Uri: https://axeprime.xyz/kayit/fonts/montserrat/Montserrat-Regular.ttf
+File Name: c:\Downloaded Web Sites\axeprime.xyz\kayit\fonts\montserrat\Montserrat-Regular.ttf
+Content Type: font/ttf
+
