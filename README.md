@@ -4,7 +4,7 @@
 [JavaScript](google.com)
 
 ## About
-Free Source for **Counter-Strike: Global Offensive** Website - Coded in HTML,CSS,JAVASCRIPT :D
+Free Source for **Counter-Strike: Global Offensive** Cheat Website - Coded in HTML,CSS,JAVASCRIPT :D
 
 
 ## Copyrights
