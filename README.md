@@ -8,7 +8,7 @@ Free Open Source Legit Cheat for **Counter-Strike: Global Offensive** - [Dynamic
 
 
 ## Copyrights
-© AxePrime Yazılım 2018 all rights **reserved**. If you wan't to use this for commercial use:don't remove my nick from footer and delete all trading AxePrime logos :) good luck
+© AxePrime Yazılım 2018-2020 fixed by ©Xander 2020 all rights **reserved**. If you wan't to use this for commercial use:don't remove my nick from footer and delete all trading AxePrime logos :) good luck
 
 ## Socials (for Free Updates)
 [Discord](https://discord.gg/vprQ47B)
