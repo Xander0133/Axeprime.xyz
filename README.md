@@ -1,7 +1,7 @@
 ## Axeprime.xyz
-[![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png)
-[![CSS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQab89CaVbl_1FClFuN8NrUCuzD7-M32mzPSj255oVoVyVWY8dt&s)
-[![JavaScript](https://piecioshka.pl/assets/images/posts/javascript/logo-javascript.svg)
+[![HTML](google.com)
+[![CSS](google.com)
+[![JavaScript](google.com)
 
 ## About
 Free Open Source Legit Cheat for **Counter-Strike: Global Offensive** - [Dynamic-link library](https://en.wikipedia.org/wiki/Dynamic-link_library) (DLL) loadable into game process. Compatible with the latest version.
