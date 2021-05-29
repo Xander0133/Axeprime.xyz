@@ -8,7 +8,7 @@ Free Source for **Counter-Strike: Global Offensive** Cheat Website - Coded in HT
 
 
 ## Copyrights
-© AxePrime Yazılım 2018-2020 fixed by ©Xander 2020 all rights **reserved**. If you wan't to use this for commercial use:don't remove my nick from footer and delete all trading AxePrime logos :) good luck
+© AxePrime Yazılım 2018-2021 fixed by ©Xander 2021 all rights **reserved**. Use this for non-commercial only 
 
 ## Socials (for Free Updates)
 [Discord](https://discord.gg/vprQ47B)
